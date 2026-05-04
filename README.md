@@ -66,52 +66,30 @@ Browser → S3 (Frontend) → API Gateway → Lambda Functions → DynamoDB
 ## 📁 Repository Structure
 
 ```
-├── README.md
-├── lesson-1
-│   
-│   
-│   
-├── lesson-2
-│  
-│  
-│   
-├── lesson-3
-│  
-│
-│   
-├── lesson-4
-│   
-│   
-│  
-├── lesson-5
-│   
-│   
-│   
-│       
-│           
-├── lesson-6
-│  
-│   
-│   
-├── lesson-7
-│   
-│   
-│   
-│       
-├── lesson-8
-│ 
-│   
-│  
-│     
-│          
-├── lesson-9
-│  
-│   
-│  
-├── lesson-10
-│
+
 ├── Demos
 ├── DVSA_Security_Presentation
+├── lesson-01
+│   
+├── lesson-02 
+│   
+├── lesson-03
+│    
+├── lesson-04
+│    
+├── lesson-05
+│                   
+├── lesson-06
+│     
+├── lesson-07
+│           
+├── lesson-08
+│            
+├── lesson-09
+│      
+├── lesson-10
+│
+├── README.md
 
 ---
 
