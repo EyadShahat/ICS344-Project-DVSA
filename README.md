@@ -21,7 +21,7 @@ This repository contains the full vulnerability analysis, exploitation demonstra
 | Eyad Shahat | s202250640 | 5,8,9 |
 | Faisal Baeshen | 202261280 | 4,7 |
 | Faisal Bayounis | 202267880 | 1,2,6 |
-| Turki Alyamani | 202162910 | 3,9 |
+| Turki Alyamani | 202162910 | 3,10 |
 
 ---
 
