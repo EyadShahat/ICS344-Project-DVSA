@@ -18,7 +18,7 @@ This repository contains the full vulnerability analysis, exploitation demonstra
 
 | Name | Student ID | Lesson |
 |------|-----------|--------|
-| Eyad Shahat | s202250640 | 5,8,9 |
+| Eyad Shahat | s202250640 | 5,8,9 , Bouns|
 | Faisal Baeshen | 202261280 | 4,7 |
 | Faisal Bayounis | 202267880 | 1,2,6 |
 | Turki Alyamani | 202162910 | 3,10 |
@@ -88,6 +88,8 @@ Browser → S3 (Frontend) → API Gateway → Lambda Functions → DynamoDB
 ├── lesson-09
 │      
 ├── lesson-10
+│
+├──lesson-Bouns
 │
 ├── README.md
 
